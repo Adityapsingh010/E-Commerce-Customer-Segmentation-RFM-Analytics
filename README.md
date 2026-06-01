@@ -3,7 +3,7 @@ E-Commerce Customer Segmentation & RFM Analytics
 Hi! Welcome to my Data Analytics portfolio project. In this project, I built an end-to-end analytics Project to help an e-commerce business understand their customer behavior and improve retention rates. 
 
 Project Objective
-The goal was to analyze transaction data and segment customers based on their purchasing habits using the **RFM (Recency, Frequency, Monetary)** model. By identifying "Champions" and "At-Risk" customers, the business can optimize their marketing strategies.
+The goal was to analyze transaction data and segment customers based on their purchasing habits using the **RFM (Recency, Frequency, Monetary)model. By identifying "Champions" and "At-Risk" customers, the business can optimize their marketing strategies.
 
 Tools & Technologies Used
 1. Python (Pandas, NumPy):Used for data generation, cleaning, and calculating the mathematical RFM scores.
